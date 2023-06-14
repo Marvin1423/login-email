@@ -2,17 +2,7 @@
 
 This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### The challenge
-
-Users should be able to:
-
-- Add their email and submit the form
-- See a success message with their email after successfully submitting the form
-- See form validation messages if:
-  - The field is left empty
-  - The email address is not formatted correctly
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+### O desafio
 
 Os usuários devem ser capazes de:
 
@@ -35,16 +25,16 @@ Os usuários devem ser capazes de:
 - Solution URL: [Solution email validation](https://www.frontendmentor.io/solutions/responsive-email-form-HNKxC5UWkT)
 - Live Site URL: [Email Validation](https://marvin1423.github.io/login-email/)
 
-## My process
+## Meu processo
 
-### Built with
+### Feito com
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Javascript
 
-### What I learned
+### Oque eu aprendi
 
 Trabalhando nesse projeto eu aprendi formas melhores de deixar o site responsivo como o 
 ```html
@@ -52,15 +42,15 @@ Trabalhando nesse projeto eu aprendi formas melhores de deixar o site responsivo
 ```
 e bati um pouco a cabeça pra desenvolver o javascript mas deu certo no final
 
-### Continued development
+### Planos futuros
 
 Meus planos atuais são desenvolver o meu Javascript porque ainda tenho bastante dificuldade na hora de desenvolver algo com ele
 
-### Useful resources
+### Recursos utilizados
 
 - [Como validar um email com JS](https://horadecodar.com.br/como-validar-email-com-javascript/) - Esse site me ajudou a fazer a validação do email com o regex certo pra validá-los
 
-## Author
+## Autor
 
 - Website - [Arthur Marvin](https://github.com/Marvin1423)
 - Frontend Mentor - [@Marvin1423](https://www.frontendmentor.io/profile/Marvin1423)
