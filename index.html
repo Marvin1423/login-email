@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./src/images/favicon-32x32.png">
+  <title>Frontend Mentor | Newsletter sign-up form with success message</title>
+
+  <link rel="stylesheet" href="src/css/reset.css">
+  <link rel="stylesheet" href="src/css/variables.css">
+  <link rel="stylesheet" href="src/css/style.css">
+</head>
+
+<body>
+  <div id="form" class="form">
+    <div class="left-side">
+      <h1 class="title">Stay updated!</h1>
+      <p class="text">Join 60,000+ product managers receiving monthly updates on:</p>
+      <ul class="list">
+        <li class="list-text">Product discovery and building what matters</li>
+        <li class="list-text">Measuring to ensure updates are a success</li>
+        <li class="list-text">And much more!</li>
+      </ul>
+
+      <p class="email-text">Email address</p>
+      <input class="email-input no-error" type="email" placeholder="email@company.com" name="email" id="email">
+
+      <button id="submit-btn" class="btn-submit" type="submit">Subscribe to monthly newsletter</button>
+    </div>
+
+    <picture>
+      <source srcset="./src/images/illustration-sign-up-mobile.svg" media="(max-width: 755px)">
+      <img class="illustration" src="./src/images/illustration-sign-up-desktop.svg" alt="Filme do Batman">
+    </picture>
+  </div>
+
+  <div id="subscribed" class="subscribed hide">
+    <img src="src/images/icon-success.svg" alt="sucess subscribing message">
+
+    <h1>Thanks for subscribing!</h1>
+    <p>A confirmation email has been sent to <span id="email-in-dismiss"></span>
+      Please open it and click the button inside to confirm your subscription.</p>
+    <button id="dismiss-btn">Dismiss message</button>
+  </div>
+
+  <script src="src/js/index.js"></script>
+</body>
+
+</html>
