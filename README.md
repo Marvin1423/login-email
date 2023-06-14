@@ -12,7 +12,7 @@ Os usuários devem ser capazes de:
   - O campo é deixado em branco
   - O endereço de e-mail não está formatado corretamente
 - Ver o layout ideal para a interface, dependendo do tamanho da tela do dispositivo
-- Ver os estados de foco e foco para todos os elementos interativos na página
+- Ver os estados de foco para todos os elementos interativos na página
 
 ### Screenshots
 
