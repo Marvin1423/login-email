@@ -12,7 +12,7 @@ submitButton.addEventListener('click', () => {
         subscribed.classList.remove('hide')
         form.classList.add('hide')
         emailInDismissMessage.innerHTML = emailInput.value
-         emailText.classList.remove('error')
+        emailText.classList.remove('error')
         emailInput.classList.remove('error')
         emailInput.classList.add('no-error')
     } else {

@@ -64,7 +64,7 @@ body{
 }
 
 .form .left-side .list .list-text{
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     margin-bottom: 10px;
     margin-left: 35px;
@@ -187,7 +187,7 @@ body{
 
 .subscribed p{
     font-size: 16px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .subscribed p span{
@@ -251,6 +251,11 @@ body{
         padding: 0 20px;
         margin-right: 0;
     }
+
+    .form .text{
+        font-size: 17px;
+        margin-left: 3px;
+    }
 }
 
 @media(max-width:530px){
@@ -277,7 +282,7 @@ body{
     }
 
     .form .left-side .text{
-        font-size: 13px;
+        font-size: 15px;
         margin-top: 10px;
     }
 
@@ -292,8 +297,8 @@ body{
     }
 
     .form .left-side .list .list-text{
-        font-size: 15px;
-        width: 230px;
+        font-size: 14px;
+        width: 224px;
     }
 
     .form .left-side .email-input{
@@ -314,6 +319,6 @@ body{
     }
 
     .subscribed p{
-        font-size: 12px;
+        font-size: 15px;
     }
 }
