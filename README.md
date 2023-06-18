@@ -1,9 +1,3 @@
-# Frontend Mentor - Newsletter sign-up form with success message solution
-
-This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-### O desafio
-
 Os usuários devem ser capazes de:
 
 - Adicionar o e-mail e enviar o formulário
@@ -44,7 +38,7 @@ e bati um pouco a cabeça pra desenvolver o javascript mas deu certo no final
 
 ### Planos futuros
 
-Meus planos atuais são desenvolver o meu Javascript porque ainda tenho bastante dificuldade na hora de desenvolver algo com ele
+Meus planos atuais são desenvolver o meu Javascript porque ainda tenho certa dificuldade na hora de desenvolver algo com ele
 
 ### Recursos utilizados
 
